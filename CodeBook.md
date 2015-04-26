@@ -53,6 +53,6 @@ The original data is available in : http://archive.ics.uci.edu/ml/machine-learni
 
 4. A transformation is done on column names in order to make them more understandable. We used the gsub function for that prurpose.
 
-5. The target tidy data set (average of each measurement for eache subject and each activity) set has been computed using the aggregate function.
+5. The target tidy data set (average of each measurement for each subject and each activity) is computed using the aggregate function.
 
 
